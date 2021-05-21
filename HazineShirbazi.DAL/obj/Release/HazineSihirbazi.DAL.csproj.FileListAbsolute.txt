@@ -1,0 +1,6 @@
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineShirbazi.DAL\bin\Release\HazineShirbazi.DAL.dll
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineShirbazi.DAL\bin\Release\HazineShirbazi.DAL.pdb
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineShirbazi.DAL\obj\Release\HazineSihirbazi.DAL.csprojAssemblyReference.cache
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineShirbazi.DAL\obj\Release\HazineSihirbazi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineShirbazi.DAL\obj\Release\HazineShirbazi.DAL.dll
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineShirbazi.DAL\obj\Release\HazineShirbazi.DAL.pdb

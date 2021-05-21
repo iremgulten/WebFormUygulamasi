@@ -1,0 +1,9 @@
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineSihirbazi.BU\bin\Release\HazineSihirbazi.BU.dll
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineSihirbazi.BU\bin\Release\HazineSihirbazi.BU.pdb
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineSihirbazi.BU\bin\Release\HazineShirbazi.DAL.dll
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineSihirbazi.BU\bin\Release\HazineShirbazi.DAL.pdb
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineSihirbazi.BU\obj\Release\HazineSihirbazi.BU.csprojAssemblyReference.cache
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineSihirbazi.BU\obj\Release\HazineSihirbazi.BU.csproj.CoreCompileInputs.cache
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineSihirbazi.BU\obj\Release\HazineSihirbazi.BU.csproj.CopyComplete
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineSihirbazi.BU\obj\Release\HazineSihirbazi.BU.dll
+C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineSihirbazi.BU\obj\Release\HazineSihirbazi.BU.pdb
