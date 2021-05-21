@@ -1,6 +1,0 @@
-C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineShirbazi.DAL\bin\Debug\HazineShirbazi.DAL.dll
-C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineShirbazi.DAL\bin\Debug\HazineShirbazi.DAL.pdb
-C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineShirbazi.DAL\obj\Debug\HazineShirbazi.DAL.csproj.CoreCompileInputs.cache
-C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineShirbazi.DAL\obj\Debug\HazineShirbazi.DAL.dll
-C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineShirbazi.DAL\obj\Debug\HazineShirbazi.DAL.pdb
-C:\Users\irem.gulten\Desktop\HAZİNE_UYG\HazineSihirbazForm\HazineShirbazi.DAL\obj\Debug\HazineShirbazi.DAL.csprojAssemblyReference.cache
